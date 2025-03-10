@@ -2,18 +2,18 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
-
-/**
- *
- * @author Lab Informatika
- */
 package pkg123230207_if.b_kuis;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 import java.text.NumberFormat;
+
+/**
+ *
+ * @author Lab Informatika
+ */
+
 
 class PurchaseSummaryFrame extends JFrame {
     public PurchaseSummaryFrame(String username, double appleQuantity, double orangeQuantity, double mangoQuantity,
